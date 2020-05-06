@@ -16,9 +16,9 @@ rect(0, 18, 18, 62) #box left
 rect(0, 50, 6, 30) #six yard box left
 rect(-1, 44, 0, 36) #goal left
 
-rect(102, 18, 120, 62) #box left
-rect(114, 50, 120, 30) #six yard box left
-rect(120, 44, 121, 36) #goal left
+rect(102, 18, 120, 62) #box right
+rect(114, 50, 120, 30) #six yard box right
+rect(120, 44, 121, 36) #goal right
 
 segments(x0 = 60, y0 = 0, x1 = 60, y1 = 80) #middle line
 draw.circle(60,40,10,border="black") #middle circle
